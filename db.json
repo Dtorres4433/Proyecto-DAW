@@ -1,0 +1,34 @@
+{
+  "admin": [
+    {
+      "id": 1,
+      "user": "datorres",
+      "name": "David Torres",
+      "password": "12345"
+    },
+    {
+      "id": 2,
+      "user": "kjimenez",
+      "name": "Kenneth Jimenez",
+      "password": "12345"
+    }
+  ],
+  "categoria": [
+    {
+      "id": 1,
+      "name": "Medicina",
+      "descripcion": "Informacion de Medicina"
+    },
+    {
+      "id": 2,
+      "name": "Productos de Limpieza",
+      "descripcion": "Informacion de Productos de Limpieza"
+    }
+  ],
+  "producto": {
+    "id": 1,
+    "name": "Paracetamol",
+    "descripcion": "Informacion de Paracetamol",
+    "categoria": 1
+  }
+}
